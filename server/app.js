@@ -1,11 +1,6 @@
-    /* *********************************
-            Student Name: Bal Krishna Dhakal
-            Student ID: 300916314
-            Description: COMP308-W2019 Midterm Test
-            Date Created: 23rd Feb, 2019 
-            ************************************/
+ 
 
-    // moddules for node and express
+    // modules for node and express
     let createError = require('http-errors');
     let express = require('express');
     let path = require('path');
